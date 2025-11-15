@@ -1,0 +1,25 @@
+lab red
+vent
+evolution color
+amoeba red strip single
+amoeba red dot single
+amoeba blue dot single
+vent
+amoeba blue dot single
+amoeba red strip double
+lab green
+evolution pattern
+amoeba red dot single
+amoeba blue strip double
+amoeba red dot double
+vent
+amoeba red dot double
+amoeba blue strip single
+evolution eye
+amoeba blue strip single
+amoeba red strip single
+amoeba blue strip double
+amoeba red strip double
+amoeba blue dot double
+lab yellow
+amoeba blue dot double
