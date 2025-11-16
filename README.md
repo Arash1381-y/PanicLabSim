@@ -1,6 +1,6 @@
 # Panic Lab Simulator & Renderer
 
-Monte Carlo helper that recreates the Panic Lab board, runs thousands of virtual experiments, and turns the results into quick visuals. Use it to sanity-check a custom card ring, practice spotting amoebas, or simply enjoy the art.
+Monte Carlo helper that recreates the [Panic Lab](https://en.gigamic.com/family-games/81-panic-lab.html) board, runs thousands of virtual experiments, and turns the results into quick visuals. Use it to sanity-check a custom card ring, practice spotting amoebas, or simply enjoy the art.
 
 ## Features
 - Parse a human-friendly `input.txt` that describes the circular card layout (labs, vents, evolution cards, amoebas).
